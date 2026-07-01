@@ -47,7 +47,7 @@ Full-Stack Web Developer (フルスタックWebエンジニア)
 
 🎓 学歴 & 教育 (Education & Training)
 【IT専門訓練】
-2025年1月 〜 2026年5月 (修了予定): 公共職業訓練 Java・Python習得科
+2026年1月 〜 2026年5月 (修了予定): 公共職業訓練 Java・Python習得科
 
 学習内容: Java演習（API、GUI、JSP／サーブレット等）、Python演習、データベース演習（SQL）、Webプログラミング演習（HTML、CSS、JavaScript）
 
