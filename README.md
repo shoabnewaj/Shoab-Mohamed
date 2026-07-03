@@ -18,7 +18,7 @@ Full-Stack Web Developer (フルスタックWebエンジニア)
 
 アーキテクチャ & 設計 (Architecture): MVCパターン, オブジェクト指向設計
 
-言語 (Languages): 日本語 (ビジネスレベル・日本在住19年), ベンガル語 (母国語), 英語
+言語 (Languages): 日本語 (ビジネスレベル・日本在住20年), ベンガル語 (母国語), 英語
 
 🚀 開発実績 (Projects)
 プロジェクト名: Y-ChatApp (SNS & コミュニケーションプラットフォーム)
